@@ -1,10 +1,10 @@
-tensorflow>=2.1.0
+tensorflow>=2.0.0
 tensorflow-datasets
 tensorflow-estimator
 tensorflow-hub
-tensorflow-metadata
-tensorflow-serving-api
-tensorflowjs
+# tensorflow-metadata
+# tensorflow-serving-api
+# tensorflowjs
 numpy
 scipy
 pandas
